@@ -1,0 +1,10 @@
+Member 1: 1181103091 Sia Mandy
+Member 2: 1181103362 Chang See Jie
+Member 3: 1181103501 Lim Wei Jie
+
+TASK DISTRIBUTION
+1. Main program - Sia Mandy
+		- Lim Wei Jie
+
+2. GUI - Chang See Jie
+       - Lim Wei Jie

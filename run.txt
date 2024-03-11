@@ -1,0 +1,7 @@
+1. Java Swing - import javax.swing.* (built-in library)
+
+2. Develop using VSCode & IntelliJ.
+
+  --> Main.java - Run the program with CLI
+
+  --> SwingMain.java - Run the program with GUI
